@@ -39,6 +39,6 @@ Avoid fluff. Use industry-standard technical nomenclature (e.g., "Zero-shot lear
 All figures must have professional captions (e.g., "Figure 1: The Transformer Encoder-Decoder Framework").
 Output: Provide the final deliverable as a clean, paginated PDF document.
 ## Output
-file:///C:/Users/admin/OneDrive/Attachments/GenAI_LLM_Technical_Report.pdf
+file:///C:/Users/admin/Downloads/GenAI_LLM_Technical_Report%20(3).pdf
 ## Result
 The experiment was a success. The structured prompt effectively guided the AI to generate a precise, well-formatted, and accurate technical report on Generative AI and LLMs, demonstrating the power of clear prompt engineering.
